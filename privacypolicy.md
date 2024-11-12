@@ -9,6 +9,7 @@ Storage Of UserIDs(UID) :
 At Nexzite we store users IDs(UID) in our database to deliver customized and better experience. This information help us to bring the users better experience.  It helps us offer personalized services, like keeping track of each user’s progress, managing inventories, and making sure everything runs smoothly in our bot.
 
 Online Privacy Policy only:
+
 This Privacy Policy only applies to our online activities and is relevant to visitors who interact with our bot, Aria-Beatz. It covers the information you share or we collect while using the bot. This policy doesn’t apply to information collected offline or through any other channels.
 
 Consent
